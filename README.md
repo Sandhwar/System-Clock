@@ -1,2 +1,2 @@
 # System-Clock
-Using java it will show the system local time ever second
+Using java it will show the system local time every second
